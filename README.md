@@ -10,6 +10,13 @@ THE DATA SET IS CREATED BY US.. AS THE DATA ARE NOT EASILY AVILABLE(https://gith
 
 
 ![This is an image](https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/28132045/cnnimage.png)
+![This is an image](https://github.com/VAIBHAV0526/ML_PROJECT_MONUMENTS_DETECTION_/blob/asset/Screenshot%202022-03-15%20at%209.20.18%20PM.png)
+![This is an image](https://github.com/VAIBHAV0526/ML_PROJECT_MONUMENTS_DETECTION_/blob/asset/Screenshot%202022-03-15%20at%209.20.30%20PM.png)
+![This is an image](https://github.com/VAIBHAV0526/ML_PROJECT_MONUMENTS_DETECTION_/blob/asset/Screenshot%202022-03-15%20at%209.20.36%20PM.png)
+![This is an image](https://github.com/VAIBHAV0526/ML_PROJECT_MONUMENTS_DETECTION_/blob/asset/Screenshot%202022-03-15%20at%209.20.41%20PM.png)  
+  
+  
+  
   
 <H1>#MONUMENTS INCLUDE<H1>
 <h3>#red fort</h3>
