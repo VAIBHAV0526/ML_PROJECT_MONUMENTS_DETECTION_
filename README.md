@@ -12,8 +12,11 @@ THE DATA SET IS CREATED BY US.. AS THE DATA ARE NOT EASILY AVILABLE(https://gith
 ![This is an image](https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/28132045/cnnimage.png)
   
 <H1>#MONUMENTS INCLUDE<H1>
-#red fort
-#india gate
-#lotus temple
-#akshardham_temple 
+<h3>#red fort</h3>
+  <br>
+  <h3>#india gate</h3>
+  <br>
+  <h3>#lotus temple</h3>
+  <br>
+  <h3>#akshardham_temple </h3>
   
