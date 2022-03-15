@@ -4,3 +4,16 @@ STEPS  THAT FOLLOWED FOR THE  PREPRATION OF MODEL
 
 FOR THE DATA COLLECTION WE USE KAGGLE(https://www.kaggle.com/varunsharmaml/qutub-complex-monuments-images-dataset) AND WEB SCRAPPING ()TECHNIQUE AND 
 THE DATA SET IS CREATED BY US.. AS THE DATA ARE NOT EASILY AVILABLE(https://github.com/editor-js/simple-image)
+
+<H1>#Architecture Of CNN<H1>
+
+
+
+![This is an image](https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/28132045/cnnimage.png)
+  
+<H1>#MONUMENTS INCLUDE<H1>
+#red fort
+#india gate
+#lotus temple
+#akshardham_temple 
+  
